@@ -1,0 +1,23 @@
+{
+  "name": "node_express_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshraja-g/node_express_basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshraja-g/node_express_basics/issues"
+  },
+  "homepage": "https://github.com/vigneshraja-g/node_express_basics#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
